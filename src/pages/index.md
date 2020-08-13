@@ -9,7 +9,7 @@ sections:
       You're welcome to Opemipo's Thoughts where we post different articles,
       videos on my YouTube channel.
     actions:
-      - label: Let's talk
+      - label: Get Started
         url: /contact
         style: button
   - section_id: latest-projects
