@@ -12,14 +12,6 @@ sections:
       - label: Get Started
         url: /contact
         style: button
-  - section_id: ''
-    type: section_portfolio
-    layout_style: mosaic
-    title: ''
-    subtitle: An optional subtitle of the section
-    projects_number: 0
-    view_all_label: View All
-    view_all_url: portfolio
   - section_id: services
     type: section_grid
     title: What We Do
