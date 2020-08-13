@@ -12,7 +12,7 @@ sections:
       - label: Get Started
         url: /contact
         style: button
-  - section_id: latest-projects
+  - section_id: ''
     type: section_portfolio
     layout_style: mosaic
     title: Recent Posts
