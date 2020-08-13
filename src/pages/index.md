@@ -6,8 +6,8 @@ sections:
     type: section_hero
     title: Hi There! You're welcome to Opemipo's Thoughts.
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      You're welcome to Opemipo's Thoughts where we post different articles,
+      videos on my YouTube channel.
     actions:
       - label: Let's talk
         url: /contact
