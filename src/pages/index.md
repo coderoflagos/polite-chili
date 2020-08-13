@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Opemipo's Thoughts
 hide_title: true
 sections:
   - section_id: hero
