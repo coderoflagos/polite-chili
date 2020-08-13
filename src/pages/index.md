@@ -17,7 +17,7 @@ sections:
     layout_style: mosaic
     title: Recent Posts
     subtitle: An optional subtitle of the section
-    projects_number: 6
+    projects_number: 0
     view_all_label: View All
     view_all_url: portfolio
   - section_id: services
