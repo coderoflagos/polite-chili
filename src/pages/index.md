@@ -50,7 +50,7 @@ sections:
           I really love your YouTube channel and it has inspired lots of
           teenagers.
       - author: Aubrey Hoover
-        avatar: images/aubrey_hoover.jpg
+        avatar: images/ftTqAS7T_400x400.jpg
         content: >-
           I've been following your Twitter activity, very impressive for a young
           person I really love your session with Paul, it was nice.
