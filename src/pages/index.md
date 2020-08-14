@@ -52,8 +52,8 @@ sections:
       - author: Aubrey Hoover
         avatar: images/aubrey_hoover.jpg
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+          I've been following your Twitter activity, very impressive for a young
+          person
       - author: Deegan Wallace
         avatar: images/deegan_wallace.jpg
         content: >-
