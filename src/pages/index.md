@@ -21,9 +21,8 @@ sections:
     grid_items:
       - title: Videos
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+          There are lots of videos on our YouTube channel where we do Tech
+          talks, overview of different technologies, LIVE coding series etc.
       - title: Articles
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
