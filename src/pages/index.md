@@ -45,7 +45,7 @@ sections:
     col_number: three
     testimonials:
       - author: Bankole Ahmed
-        avatar: images/sean_salazar.jpg
+        avatar: images/108014260_192958998835119_4112670573123560505_o.jpg
         content: >-
           I really love your YouTube channel and it has inspired lots of
           teenagers.
