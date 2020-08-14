@@ -35,8 +35,9 @@ sections:
           people in tech from anywhere in the world.
       - title: Open Source Contributions
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+          We have a couple of LIVe coding series on the YouTube channel. We have
+          LIVE JAMstack coding with Stackbit, JavaScript or any other
+          technology, it is the fun part of the YouTube channel to developers.
   - section_id: testimonials
     type: section_testimonials
     title: Testimonials
