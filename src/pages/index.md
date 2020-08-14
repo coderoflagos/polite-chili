@@ -56,7 +56,7 @@ sections:
           person. I really love your session with Paul, it was nice.
       - author: Deegan Wallace
         avatar: images/deegan_wallace.jpg
-        content: 'I really love what you do '
+        content: 'I really love what you do in this YouTube channel, I '
   - section_id: latest-posts
     type: section_posts
     title: Latest from the Blog
