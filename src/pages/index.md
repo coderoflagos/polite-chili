@@ -46,7 +46,7 @@ sections:
     testimonials:
       - author: Sean Salazar
         avatar: images/sean_salazar.jpg
-        content: 'I '
+        content: I really love your YouTube channel and I h
       - author: Aubrey Hoover
         avatar: images/aubrey_hoover.jpg
         content: >-
