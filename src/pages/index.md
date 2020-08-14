@@ -49,7 +49,7 @@ sections:
         content: >-
           I really love your YouTube channel and it has inspired lots of
           teenagers.
-      - author: Aubrey Hoover
+      - author: Ohad Eder-Pressman
         avatar: images/ftTqAS7T_400x400.jpg
         content: >-
           I've been following your Twitter activity, very impressive for a young
