@@ -44,7 +44,7 @@ sections:
     subtitle: An optional subtitle of the section
     col_number: three
     testimonials:
-      - author: Sean Salazar
+      - author: Bankole Ahmed
         avatar: images/sean_salazar.jpg
         content: >-
           I really love your YouTube channel and it has inspired lots of
