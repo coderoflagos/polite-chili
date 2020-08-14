@@ -54,7 +54,7 @@ sections:
         content: >-
           I've been following your Twitter activity, very impressive for a young
           person. I really love your session with Paul, it was nice.
-      - author: Sifiso
+      - author: Sifiso Nkabinde
         avatar: images/deegan_wallace.jpg
         content: 'I really love what you do in this YouTube channel, I really love this.'
   - section_id: latest-posts
