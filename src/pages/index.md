@@ -30,9 +30,9 @@ sections:
           Studio, PHP, Node JS etc.
       - title: Tech Talks
         content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin.
+          We have tech talks on the 13th of everymonth. We have tech talks on
+          different topics relating to different technologies and even with top
+          people in tech from anywhere in the world.
       - title: Open Source Contributions
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
