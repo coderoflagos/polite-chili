@@ -1,73 +1,62 @@
 ---
-title: Home
+title: Opemipo's Thoughts
 hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Hi, I''m Stackbit Exto Portfolio Theme.'
+    title: Hi There! You're welcome to Opemipo's Thoughts.
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      You're welcome to Opemipo's Thoughts where we post different articles,
+      videos on my YouTube channel.
     actions:
-      - label: Let's talk
+      - label: Get Started
         url: /contact
         style: button
-  - section_id: latest-projects
-    type: section_portfolio
-    layout_style: mosaic
-    title: Recent Work
-    subtitle: An optional subtitle of the section
-    projects_number: 6
-    view_all_label: View All
-    view_all_url: portfolio
   - section_id: services
     type: section_grid
-    title: What We Do
-    subtitle: An optional subtitle of the section
+    title: What we are all about
+    subtitle: ''
     col_number: two
     is_numbered: true
     grid_items:
-      - title: Service Title
+      - title: Videos
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
-      - title: Service Title
+          There are lots of videos on our YouTube channel where we do Tech
+          talks, overview of different technologies, LIVE coding series etc.
+      - title: Articles
         content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus.
-      - title: Service Title
+          We have lots of articles from Opemipo Disu out there, we have articles
+          on different technologies like JavaScript, IBM Watson, IBM Watson
+          Studio, PHP, Node JS etc.
+      - title: Tech Talks
         content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin.
-      - title: Service title
+          We have tech talks on the 13th of everymonth. We have tech talks on
+          different topics relating to different technologies and even with top
+          people in tech from anywhere in the world.
+      - title: Open Source Contributions
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+          We have a couple of LIVe coding series on the YouTube channel. We have
+          LIVE JAMstack coding with Stackbit, JavaScript or any other
+          technology, it is the fun part of the YouTube channel to developers.
   - section_id: testimonials
     type: section_testimonials
     title: Testimonials
     subtitle: An optional subtitle of the section
     col_number: three
     testimonials:
-      - author: Sean Salazar
-        avatar: images/sean_salazar.jpg
+      - author: Bankole Ahmed
+        avatar: images/108014260_192958998835119_4112670573123560505_o.jpg
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla.
-      - author: Aubrey Hoover
-        avatar: images/aubrey_hoover.jpg
+          I really love your YouTube channel and it has inspired lots of
+          teenagers.
+      - author: Ohad Eder-Pressman
+        avatar: images/ftTqAS7T_400x400.jpg
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-      - author: Deegan Wallace
-        avatar: images/deegan_wallace.jpg
-        content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam.
+          I've been following your Twitter activity, very impressive for a young
+          person. I really love your session with Paul, it was nice.
+      - author: Sifiso Nkabinde
+        avatar: images/KE8GwUTd_400x400.jpg
+        content: 'I really love what you do in this YouTube channel, I really love this.'
   - section_id: latest-posts
     type: section_posts
     title: Latest from the Blog
