@@ -53,7 +53,7 @@ sections:
         avatar: images/aubrey_hoover.jpg
         content: >-
           I've been following your Twitter activity, very impressive for a young
-          person
+          person I really love your session with Paul, it was nice.
       - author: Deegan Wallace
         avatar: images/deegan_wallace.jpg
         content: >-
