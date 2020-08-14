@@ -25,7 +25,16 @@
     },
     "footer": {
         "content": "&copy; Opemipo's Thoughts. All rights reserved",
-        "links": [],
+        "links": [
+            {
+                "label": "lorem-ipsum",
+                "url": "lorem-ipsum",
+                "style": "link",
+                "icon_class": "lorem-ipsum",
+                "new_window": false,
+                "type": "action"
+            }
+        ],
         "has_social": true,
         "social_links": [
             {
