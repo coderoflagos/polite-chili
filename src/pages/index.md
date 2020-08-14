@@ -25,9 +25,9 @@ sections:
           talks, overview of different technologies, LIVE coding series etc.
       - title: Articles
         content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus.
+          We have lots of articles from Opemipo Disu out there, we have articles
+          on different technologies like JavaScript, IBM Watson, IBM Watson
+          Studio, PHP, Node JS etc.
       - title: Tech Talks
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
