@@ -56,9 +56,7 @@ sections:
           person. I really love your session with Paul, it was nice.
       - author: Deegan Wallace
         avatar: images/deegan_wallace.jpg
-        content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam.
+        content: 'I really love what you do '
   - section_id: latest-posts
     type: section_posts
     title: Latest from the Blog
