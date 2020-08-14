@@ -14,7 +14,7 @@ sections:
         style: button
   - section_id: services
     type: section_grid
-    title: What I do
+    title: What we are all about
     subtitle: ''
     col_number: two
     is_numbered: true
