@@ -46,7 +46,9 @@ sections:
     testimonials:
       - author: Sean Salazar
         avatar: images/sean_salazar.jpg
-        content: I really love your YouTube channel and I h
+        content: >-
+          I really love your YouTube channel and it has inspired lots of
+          teenagers.
       - author: Aubrey Hoover
         avatar: images/aubrey_hoover.jpg
         content: >-
