@@ -57,7 +57,7 @@ sections:
       - author: Sifiso Nkabinde
         avatar: images/KE8GwUTd_400x400.jpg
         content: 'I really love what you do in this YouTube channel, I really love this.'
-  - section_id: latest-posts
+  - section_id: ''
     type: section_posts
     title: Latest from the Blog
     subtitle: An optional subtitle of the section
