@@ -67,12 +67,6 @@ sections:
       - label: View Blog
         url: blog
         style: button
-      - label: lorem-ipsum
-        url: lorem-ipsum
-        style: link
-        icon_class: lorem-ipsum
-        new_window: false
-        type: action
   - title: lorem-ipsum
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
