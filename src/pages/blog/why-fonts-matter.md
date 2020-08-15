@@ -5,7 +5,7 @@ excerpt: >-
   massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing
   placerat lorem.
 date: '2019-03-27'
-thumb_image: images/12.jpg
+thumb_image: images/happy-coriander.jpg
 image: images/top-3-dev.jpg
 template: post
 ---
