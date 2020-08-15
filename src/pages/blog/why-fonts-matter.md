@@ -1,9 +1,9 @@
 ---
 title: 3 things to do while learning or before learning a new programming language.
 excerpt: >-
-  Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
-  massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing
-  placerat lorem.
+  We all know learning a new technology is quite uneasy, but it is really cool
+  and interesting to learn a new technology. We have different types of
+  programming languages
 date: '2019-03-27'
 thumb_image: images/happy-coriander.jpg
 image: images/top-3-dev.jpg
