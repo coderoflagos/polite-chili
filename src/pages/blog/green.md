@@ -1,5 +1,5 @@
 ---
-title: Green is my favorite color
+title: ''
 subtitle: 'Apparently, green is my favorite color.'
 excerpt: ''
 date: '2018-01-11'
