@@ -6,7 +6,7 @@ excerpt: >-
   placerat lorem.
 date: '2019-03-27'
 thumb_image: images/12.jpg
-image: images/12.jpg
+image: images/top-3-dev.jpg
 template: post
 ---
 We all know learning a new technology is quite uneasy, but it is really cool and interesting to learn a new technology. We have different types of programming languages (more than 500) and we have different learning resources too. There are different programming languages in different sections of development, we have web development, software development and even application development. This article will teach you the things that developers should do before learning how to code a new programming language:
