@@ -4,7 +4,7 @@ excerpt: >-
   Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan
   sapien blandit ac amet faucibus aliquet placerat commodo.
 date: '2019-03-24'
-thumb_image: images/Ec5GDO0XgAEb_Qr.jpg
+thumb_image: images/groovy-rabbit.png
 image: images/Overview of JavaScript.png
 template: post
 ---
