@@ -13,4 +13,6 @@ Hi Everyone! In this tutorial, I will be taking you through JavaScript - the ove
 
 JavaScript has lots of hidden facts, for example, people do not know that JavaScript can be used in AI which is even more faster, secure and easier.
 
-Everything is here in this video, please watch and don't forget to subscribe to my YouTube channel
+Everything is here in this video, please watch and don't forget to subscribe to my YouTube channel:
+
+https://www.youtube.com/watch?v=dw3s1_NtDtI&t=196s
