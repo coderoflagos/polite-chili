@@ -9,13 +9,21 @@ thumb_image: images/12.jpg
 image: images/12.jpg
 template: post
 ---
+We all know learning a new technology is quite uneasy, but it is really cool and interesting to learn a new technology. We have different types of programming languages (more than 500) and we have different learning resources too. There are different programming languages in different sections of development, we have web development, software development and even application development. This article will teach you the things that developers should do before learning how to code a new programming language:
 
-**Donec neque lorem**, sodales non fermentum et, aliquam quis erat. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla tincidunt justo eu ante ultrices posuere. Duis cursus at massa ac tempus. Morbi sit amet mi sit amet lorem ullamcorper feugiat ac et dolor. Nullam rhoncus urna tincidunt odio ultricies, at dapibus felis facilisis. Ut condimentum nulla eget feugiat finibus. Suspendisse sit amet purus a eros dignissim commodo ut a erat.
+Developers should get a required IDE before learning a new technology: This will help developers to be familiar with the language that they are learning. It will help developers to practice while learning the new programming language. For example Python needs an IDE like PyCharm or Spyder before you can write a code and debug an application.
 
-Phasellus commodo dolor sit amet, consectetur adipiscing elit. Nam a finibus magna. Sed et pulvinar dolor. Suspendisse vitae iaculis lacus. Proin vulputate, leo eget pulvinar faucibus, felis est condimentum lorem, in rhoncus neque felis ac leo. Duis felis lectus, ultrices id dolor vel, tincidunt tristique nunc. Nullam quis orci magna. Proin eget nunc et dolor hendrerit eleifend. Praesent a vehicula justo, quis convallis lacus. Phasellus porttitor, turpis vel placerat condimentum, urna felis volutpat ligula, et ultricies arcu mi ac nisl. Cras id consectetur ligula, et mollis odio. Aenean erat dui, congue vitae nisi a, aliquet lobortis eros.
+Developers should make a deep research on the programming language they are learning: Developers should find out about the programming language they are learning by finding out how tough the language is to get them prepared. Developers should know what they are going into in order for them not to get into problems while learning and after learning the new programming language. For example we all know C++ is a tough language and it requires a lot of time while learning and after learning, developers should spend more time on making research about the programming language.
 
-> The beauty of type lies in its utility, prettiness without readability serves neither author nor reader. - James Felici
+Developers should have a place where they write the keywords of the language: They should also have a book where they write keywords the definitions are not also left out. Developers should also know how to use the keywords. The first thing they should know while learning how to write a programming language is the basic syntax. For example, the basic syntax of C++ is:
 
-Sed augue lorem, porta nec lorem et, luctus egestas nunc. Sed in tellus at enim commodo pharetra. Mauris nisi ipsum, auctor nec justo non, lobortis ullamcorper magna. Pellentesque posuere posuere dolor, quis egestas est ultrices id. Cras at urna lectus. Curabitur in placerat ligula. Phasellus pharetra scelerisque lectus, id sagittis lorem pretium eget. Phasellus commodo nunc ante, nec commodo urna iaculis eu. Pellentesque euismod et ante quis vestibulum. Ut quis sapien nisi. Sed interdum sit amet sem et vestibulum. Maecenas tempor dictum leo, quis rutrum purus tincidunt vitae. Fusce vel turpis risus. Donec congue accumsan tempus. Nunc nec elit magna. Aenean luctus auctor ligula at lacinia.
+#include <iostream>
+using namespace std;
 
-Donec neque lorem, sodales non fermentum et, aliquam quis erat. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla tincidunt justo eu ante ultrices posuere. Duis cursus at massa ac tempus. Morbi sit amet mi sit amet lorem ullamcorper feugiat ac et dolor. Nullam rhoncus urna tincidunt odio ultricies, at dapibus felis facilisis. Ut condimentum nulla eget feugiat finibus. Suspendisse sit amet purus a eros dignissim commodo ut a erat. Maecenas pretium velit faucibus, porttitor lacus eu, eleifend sapien. In hac habitasse platea dictumst. Pellentesque nisi nisl, consectetur a accumsan sit amet, finibus vel nibh. Vivamus aliquet urna non turpis vehicula maximus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+int main() {
+  cout << "Hello World!";
+  return 0;
+}
+In conclusion, all developers should have a very good way of learning and they should also follow the steps that are mentioned here. You will find it very easy while learning a new technology while using this steps.
+
+
