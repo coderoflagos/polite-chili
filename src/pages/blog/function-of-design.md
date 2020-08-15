@@ -1,6 +1,6 @@
 ---
 title: ''
-subtitle: 'A interesting tale about function of design '
+subtitle: ''
 excerpt: ''
 date: '2018-01-15'
 template: post
