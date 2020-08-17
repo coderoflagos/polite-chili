@@ -1,6 +1,11 @@
 ---
 title: JAMstack accessibility with Stackbit
-excerpt: ''
+excerpt: >-
+  JAMstack is the modern way of developing websites that are secure with simpler
+  developer experience and better performance. It is the best way to develop
+  websites faster and easier. JAMstack makes the web more accessible to
+  developers, with some platforms like Stackbit, you don't have to write a
+  single line of code to create a web application.
 date: '2020-08-17'
 template: post
 ---
